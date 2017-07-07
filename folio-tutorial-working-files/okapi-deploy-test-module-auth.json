@@ -1,0 +1,7 @@
+  {
+    "srvcId": "test-auth",
+    "nodeId": "localhost",
+    "descriptor": {
+      "exec": "java -Dport=%p -jar okapi-test-auth-module/target/okapi-test-auth-module-fat.jar"
+    }
+  }

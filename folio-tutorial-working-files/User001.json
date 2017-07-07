@@ -1,0 +1,24 @@
+{
+  "username" : "kody",
+  "id" : "6149c8d7-ae2f-4a64-8b39-4e39f743d675",
+  "active" : true,
+  "type" : "patron",
+  "personal" : {
+    "email" : "mireille@kihn-dickinson.ki",
+    "phone" : "594.070.0052",
+    "lastName" : "Collins",
+    "firstName" : "Courtney",
+    "mobilePhone" : "635-727-8471",
+    "middleName" : "Nat",
+    "dateOfBirth" : "2009-01-03T00:00:00.000+0000",
+    "preferredContact" : {
+      "desc" : "Email",
+      "value" : "EMAIL"
+    }
+  },
+  "lastUpdateDate" : "1987-01-18T00:00:00.000+0000",
+  "enrollmentDate" : "2011-08-18T00:00:00.000+0000",
+  "openDate" : "2012-12-21T00:00:00.000+0000",
+  "barcode" : "639713934684667",
+  "expirationDate" : "1999-04-19T00:00:00.000+0000"
+}

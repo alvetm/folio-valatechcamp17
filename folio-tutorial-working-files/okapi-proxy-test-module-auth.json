@@ -1,0 +1,24 @@
+  {
+    "id": "test-auth",
+    "name": "Okapi test auth module",
+    "provides": [
+      {
+        "id": "test-auth",
+        "version": "3.4",
+        "handlers": [
+          {
+            "methods" : [ "POST" ],
+            "pathPattern" : "/authn/login"
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "methods": [ "*" ],
+        "pathPattern": "/*",
+        "phase": "auth",
+        "type": "request-only"
+      }
+    ]
+  }

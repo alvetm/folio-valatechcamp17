@@ -1,0 +1,23 @@
+{
+  "username" : "elyssa",
+  "id" : "90f2c933-ea1e-4b17-a719-b2af6bacc735",
+  "active" : true,
+  "type" : "patron",
+  "personal" : {
+    "email" : "cordie@carroll-corwin.hi.us",
+    "phone" : "791-043-4090 x776",
+    "lastName" : "Ferry",
+    "firstName" : "Liliane",
+    "mobilePhone" : "394.050.1417 x06534",
+    "dateOfBirth" : "2005-03-15T00:00:00.000+0000",
+    "preferredContactTypeId" : {
+      "desc" : "Email",
+      "value" : "EMAIL"
+    }
+  },
+  "lastUpdateDate" : "1995-04-01T00:00:00.000+0000",
+  "enrollmentDate" : "1981-07-06T00:00:00.000+0000",
+  "openDate" : "2012-10-10T00:00:00.000+0000",
+  "barcode" : "451770690377323",
+  "expirationDate" : "1981-12-12T00:00:00.000+0000"
+}
