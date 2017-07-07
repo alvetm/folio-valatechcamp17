@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "DeploymentDescriptor",
+  "type": "object",
+  "additionalProperties" : false,
+  "properties": {
+    "srvcId": {"type": "string"},
+    "instId": {"type": "string"},
+    "nodeId": {"type": ["string", "null"]},
+    "url": {"type": ["string", "null"]},
+    "descriptor" : {
+      "$ref": "LaunchDescriptor.json"
+    }
+  },
+  "required": ["srvcId"]
+}
