@@ -1,3 +1,3 @@
 #!/bin/bash
-./030-InstallYarn.sh
-./031-StartYarn.sh
+./30-InstallYarn.sh
+./31-StartYarn.sh
