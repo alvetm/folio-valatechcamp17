@@ -1,3 +1,9 @@
+Recording
+==========
+
+[![FOLIO Developer Curriculum](https://openlibraryfoundation-discourse-files.s3.amazonaws.com/original/1X/a1f800ac2f8f9dec470d012a42c7fd89ac98402c.png)](https://www.youtube.com/watch?v=fIyFYVZO4I8&list=PLNemeeBXI4uaONGe36UAKvNYaVo0ssZXV&index=1)
+
+
 About
 =====
 These exercise files were created for the participants of the VALA Tech Camp 2017 held on 12th July 2017 in Melbourne Australia. Details on how to run these files can be found in the VALATechCamp17_Folio_program.docx
