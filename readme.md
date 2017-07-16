@@ -1,8 +1,9 @@
-Recording
-==========
+Video Recording
+===============
 
 [![FOLIO Developer Curriculum](https://openlibraryfoundation-discourse-files.s3.amazonaws.com/original/1X/a1f800ac2f8f9dec470d012a42c7fd89ac98402c.png)](https://www.youtube.com/watch?v=fIyFYVZO4I8&list=PLNemeeBXI4uaONGe36UAKvNYaVo0ssZXV&index=1)
 
+https://www.youtube.com/watch?v=fIyFYVZO4I8&list=PLNemeeBXI4uaONGe36UAKvNYaVo0ssZXV&index=1
 
 About
 =====
